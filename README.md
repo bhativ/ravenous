@@ -3,17 +3,15 @@ Ravenous is a project I created in an effort to enhance my understanding of Reac
 ## What can the user do?
 
 As a user, you can:
-### `Be able to view a list of restaurants returned by the Yelp API.`
-### `Be able to sort through resturants  using a filter.`
-### `Be able to search for restuarants`
+- Be able to search for restuarants.
+- Be able to view a list of restaurants returned by the Yelp API
+- Be able to sort through resturants  using a filter.
 
-
-### What did I accomplish with this project?
-
-### `Create Static Components`
-### `Pass Information to Components`
-### `Setting the State of Ravenous Components`
-### `Interact with the Yelp API`
+## What did I accomplish with this project?
+- Create Static Components
+- Pass Information to Components
+- Setting the State of Ravenous Components
+- Interact with the Yelp API
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
