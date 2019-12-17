@@ -1,19 +1,18 @@
-Ravenous is a project I created in an effort to enhance my understanding of React.js
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## What can the user do?
+## Available Scripts
 
-As a user, you can:
-### `Be able to view a list of restaurants returned by the Yelp API.`
-### `Be able to sort through resturants  using a filter.`
-### `Be able to search for restuarants`
+In the project directory, you can run:
 
+### `npm start`
 
-### What did I accomplish with this project?
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `Create Static Components`
-### `Pass Information to Components`
-### `Setting the State of Ravenous Components`
-### `Interact with the Yelp API`
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
+
+### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
