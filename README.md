@@ -1,3 +1,19 @@
+Ravenous is a project (Yelp-like clone) I created in an effort to enhance my understanding of React.js
+
+## What can the user do?
+
+As a user, you can:
+- Be able to search for restuarants.
+- Be able to view a list of restaurants returned by the Yelp API
+- Be able to sort through resturants  using a filter.
+
+## What did I accomplish with this project?
+- Create Static Components
+- Pass Information to Components
+- Setting the State of Components in Ravenous
+- Interact with the Yelp API
+
+<!---
 Ravenous is a project I created in an effort to enhance my understanding of React.js
 
 ## What can the user do?
@@ -65,3 +81,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+--->
