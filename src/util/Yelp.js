@@ -15,6 +15,7 @@ const Yelp = {
                     return {
                         id: business.id,
                         imageSrc: business.image_url,
+                        url: business.url,
                         name: business.name,
                         address: business.location.address1,
                         city: business.location.city,
@@ -23,6 +24,8 @@ const Yelp = {
                         category: business.categories[0].title,
                         rating: business.rating,
                         reviewCount: business.review_count,
+                        latitude: business.coordinates.latitude,
+                        longitude: business.coordinates.longitude
                     }
                 });
             }
